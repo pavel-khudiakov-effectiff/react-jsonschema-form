@@ -17,6 +17,11 @@ should change the heading of the (upcoming) version to include a major version b
 -->
 # v5.0.0 (coming soon)
 
+# v4.2.2 (upcoming)
+
+## @rjsf/primereact
+- Add support for the PrimeReact component library.
+
 # 4.2.1
 * fix typo by @epicfaace in https://github.com/rjsf-team/react-jsonschema-form/pull/2854
 * Build all packages with TypeScript, including core by @nickgros in https://github.com/rjsf-team/react-jsonschema-form/pull/2799
