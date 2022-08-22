@@ -120,6 +120,7 @@ _build
 site
 dist
 dist-temp
+!packages/primereact/dist
 lib
 yarn.lock
 

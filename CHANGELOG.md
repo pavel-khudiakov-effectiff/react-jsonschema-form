@@ -17,7 +17,7 @@ should change the heading of the (upcoming) version to include a major version b
 -->
 # v5.0.0 (coming soon)
 
-# v4.2.2 (upcoming)
+# v4.2.4 (upcoming)
 
 ## @rjsf/primereact
 - Add support for the PrimeReact component library.
